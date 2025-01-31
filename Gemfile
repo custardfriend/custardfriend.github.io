@@ -1,4 +1,5 @@
 source "https://rubygems.org"
-gemspec
+gemspecs
 
 gem "webrick", "~> 1.9"
+gem "minimal-mistakes-jekyll"
